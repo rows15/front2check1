@@ -1,0 +1,14 @@
+.pllist {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+  
+}
+
+.pl{
+    color: #fff;
+    margin-left: 40px;
+}
+

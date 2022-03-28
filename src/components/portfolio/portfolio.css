@@ -1,0 +1,10 @@
+.Portfolio{
+    height: calc(100vh - 70px);
+    /* height: 100vh; */
+    padding-top: 70px;
+    scroll-snap-align: center;
+    background-color: #1c092e;
+    
+    z-index: 2;
+
+}

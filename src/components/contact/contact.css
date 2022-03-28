@@ -1,0 +1,26 @@
+.Contact{
+    /* height: calc(100vh - 70px); */
+    height: 50vh;
+    background-color: #551a8b;
+    color: #fff;
+    scroll-snap-align: center;
+}
+.container-footer {
+    
+    margin: auto;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 0 25px;
+}
+
+.aaaaaaaa{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.roberto{
+    
+    
+    
+    width: 9vh;
+}

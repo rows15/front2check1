@@ -1,0 +1,21 @@
+.p {
+    width: 30%;
+    height: 33vh;
+    margin: 20px 10px;
+    border: 2px solid #551a8b;
+    border-radius: 10px 50px 10px 50px;
+    overflow: hidden;
+    background-color: #fff;
+    color: #551a8b;
+    
+}
+
+
+h4{
+    margin: 10px;
+}
+a{margin: 20px;}
+.p-img{
+    border-radius: 10%;
+
+}

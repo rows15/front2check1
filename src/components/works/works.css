@@ -1,0 +1,53 @@
+.Works{
+    height: calc(100vh - 70px);
+    /* height: 100vh; */
+    scroll-snap-align: center;
+    background-color: #1c092e;
+    
+    
+    
+
+}
+.spacer{
+    height: 10px;
+}
+.roxo{
+    
+    color: #ffff;
+    border-radius: 200px;
+    background-color: #551a8b;
+    color: #ffff;
+    
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    
+}
+
+.Titulo{
+
+    padding-top: 30px;
+    margin: 10%;
+    
+
+
+}
+
+/* .roxo{
+    border-radius: 50px;
+    height: 90%;
+    padding-top: 300px;
+    background-color: #551a8b;
+}
+
+
+
+
+
+.Texto{
+    
+    
+    margin: 10%;
+
+} */

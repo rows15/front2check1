@@ -1,0 +1,99 @@
+.Intro{
+    
+    height: calc(100vh - 70px);
+    /* height: 100vh; */
+    padding-top: 70px;
+    background-color: #000;
+    scroll-snap-align: center;
+    display: flex;
+    color: #fff;
+    
+}
+
+
+
+.left{
+    flex: 0.5;
+    
+}
+
+.right{
+    flex: 0.5;
+    
+}
+
+.minhadescricao{
+    margin-top: 10%;
+    color: #fff;
+    width: 50%;
+}
+
+.imgContainer{
+    
+    margin-top: 10%;;
+    /* height: 80%; */
+    width:80%;
+    background-color: #551a8b;
+    background-image: url("../../img/bgGalaxy.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    display: flex;
+    align-items: flex-end;
+    float: right;
+    justify-content: center;
+}
+img{
+    width: 65%;
+    
+    
+    border-radius: 39%;
+    margin-bottom: 0px;
+
+}
+
+.wrapper{
+    width: 100%;
+    height: 100%;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+
+
+}
+
+span{
+    color: #551a8b;
+    font-size:30px ;
+}
+
+.ityped-cursor{
+
+    animation: blink 1s infinite;
+}
+
+    @keyframes blink {
+        
+        49%{opacity: 100%;}
+
+        50%{
+            opacity: 1;
+        }
+
+        100%{
+            opacity: 0;
+        }
+        
+    }
+
+
+
+
+h1{
+    font-size: 60px;
+    margin: 10px 0px;}
+
+h2{font-size: 35px;}
+h3{font-size:30px ;}
