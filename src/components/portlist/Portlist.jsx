@@ -8,8 +8,8 @@ const Portlist = () =>{
     return(
         <div className="pl" >
             <div className="pltexto">
-                <h1 className="pltitulo">Meu Portfolio ai glr</h1>
-                    <p className="pldesc">brigado pela oportunidade pode ver oq eu fiz ai tmj flw fml</p>
+                <h1 className="pltitulo">Meus trabalhos feitos</h1>
+                    <p className="pldesc">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
             </div>
             <div className="pllist">
                 

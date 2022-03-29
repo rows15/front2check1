@@ -25,9 +25,26 @@ ul{
     overflow: hidden;
     
 }
+.nada:hover{
 
+    background-color: #551a8b
+    
+   
+
+}
+
+.nada{
+
+    
+    
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 90px;
+    font-size: 32pt;
+
+}
 li{
-
+    font-size: 25pt;
     float: left;
     list-style-type: none;
     display: block;
